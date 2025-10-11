@@ -8,3 +8,5 @@ git pull origin main
 git add commands.txt
 git commit -m "add commands.txt" 
 git push -u origin main
+git add hello.txt
+git commit -m "update hello.txt"
