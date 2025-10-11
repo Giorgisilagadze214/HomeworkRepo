@@ -1,0 +1,10 @@
+cd 'C:\Users\user\Downloads\Homework'
+git add hello.txt
+git commit -m "add hello.txt"
+git remote add origin https://github.com/Giorgisilagadze214/HomeworkRepo.git
+git branch -m main
+git push -u origin main
+git pull origin main
+git add commands.txt
+git commit -m "add commands.txt" 
+git push -u origin main
