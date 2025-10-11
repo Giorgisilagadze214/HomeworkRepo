@@ -10,3 +10,4 @@ git commit -m "add commands.txt"
 git push -u origin main
 git add hello.txt
 git commit -m "update hello.txt"
+git push -u origin main
